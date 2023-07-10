@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+spacy
+python-dotenv
+scipy
+librosa
+notebook
+torch
